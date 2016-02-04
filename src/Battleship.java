@@ -2,10 +2,7 @@ import java.util.*;
 
 /**
  * The main engine for playing the battleship game.
- * @author Dan Longo 
- * @author Matt Stallmann
- * @author Suzanne Balik
- * @author David Sturgill
+ * @author Aurora Bravo
  */
 public class Battleship {
 	/** Number of rows on the game board. */

@@ -5,9 +5,7 @@ import java.awt.event.*;
 /**
  * The tricky part of this class is to realize that x-coordinates on the grid
  * translate to columns in the game and y-coordinates to rows.
- * @author Matt Stallmann
- * @author Suzanne Balik
- * @author David Sturgill
+ * @author Aurora Bravo
  */
 public class Grid extends JPanel implements MouseListener, MouseMotionListener {
 

@@ -4,10 +4,7 @@ import javax.swing.*;
 import javax.swing.event.*;
 /**
  * Provides GUI for Battleship game
- * @author Dan Longo
- * @author Matt Stallmann
- * @author Suzanne Balik
- * @author David Sturgill
+ * @author Aurora Bravo
  */
 public class BattleshipGUI extends JFrame implements ActionListener {
 
